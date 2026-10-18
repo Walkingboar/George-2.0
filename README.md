@@ -97,7 +97,10 @@ Use PETG or ASA. PLA softens near 55-60 C and can sag.
 7. **Confirm** motherboard model, PSU type (ATX or SFX) and fan size (120 or 140 mm).
 8. **Screen firmware and PC program** for the temperature dashboard.
 
-## Assumptions made
+## Assumptions made(this is my specs of my pc)
 - Fans are 120 mm. The GPU is a PowerColor RX 9060 XT Reaper (about 220 mm long, 2 slots).
 - The AIO radiator is 360 mm and mounts at the top.
 - Heat-set inserts are M3 with about a 4.1 mm hole.
+
+<img width="1116" height="834" alt="image" src="https://github.com/user-attachments/assets/b919654d-8b4c-4f2c-aed3-b7d68a45d0e2" />
+
